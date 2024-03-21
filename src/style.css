@@ -41,6 +41,7 @@ main {
 .midnight-container__title {
   font-size: 3.75rem;
   font-weight: bold;
+  text-align: center;
 }
 
 .midnight-container__timing {
